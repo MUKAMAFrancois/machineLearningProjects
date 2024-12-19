@@ -1,7 +1,9 @@
 # Project Summary: Analysis of Global Internet Usage Trends
 
 ## Objective
-The primary goal of this project was to explore and analyze global internet usage trends over recent years, with a focus on identifying changes between 2019 and 2021. The analysis aimed to uncover patterns, such as increases and decreases in internet usage across different countries and continents, and to provide insights into potential reasons for observed trends.
+The primary goal of this project was to explore and analyze global internet usage trends over recent years, with a focus on identifying changes between 2019 and 2021. 
+The analysis aimed to uncover patterns, such as increases and decreases in internet usage across different countries and continents, 
+and to provide insights into potential reasons for observed trends.
 
 ## Data Overview
 The dataset used for this project included:
